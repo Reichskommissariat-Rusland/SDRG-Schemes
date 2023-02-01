@@ -1,2 +1,2 @@
 # SDRG-Schemes
-The codes for SDRG-SAC and SDRG-BAC
+This repository contains the code for our VLDB paper.
